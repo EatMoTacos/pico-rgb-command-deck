@@ -4,6 +4,20 @@
 
 Known-good 4×4 RGB command deck for the TESmart DKS203-M24, built with a Raspberry Pi Pico W and Pimoroni Pico RGB Keypad Base (`PIM551`).
 
+## Photos
+
+### Final horizontal layout
+
+![Pico RGB Command Deck final horizontal layout](docs/images/command-deck-final.jpg)
+
+### Connected to the TESmart through the shared HID hub
+
+![Pico RGB Command Deck connected beside the TESmart KVM and USB hub](docs/images/command-deck-kvm-setup.jpg)
+
+### Early illuminated hardware test
+
+![PIM551 keypad and Pico W illuminated during development](docs/images/command-deck-illuminated.jpg)
+
 ## Verified working topology
 
 Verified during normal use on 2026-10-04:
